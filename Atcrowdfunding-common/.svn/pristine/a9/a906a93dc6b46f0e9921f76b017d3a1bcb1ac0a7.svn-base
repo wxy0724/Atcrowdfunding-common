@@ -1,0 +1,12 @@
+package com.atguigu.atcrowdfunding.util;
+
+public class Const {
+	
+	public static final String APP_PATH = "APP_PATH";
+	public static final String LOGIN_USER = "loginUser";
+	public static final String LOGIN_ERROR = "登录失败，用户名或密码不正确";
+	public static final String REG_ERROR = "注册失败，用户名或密码已存在";
+	public static final String PAGE = "page";
+	public static final String DEFAULT_PSWD = "123";
+	
+}
